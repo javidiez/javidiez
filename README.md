@@ -16,6 +16,6 @@
   
 ### Working on
 
-<a href="https://github.com/factorlibre" target="_blank" rel="noreferrer"><img src="[images/factorlibre.png](https://factorlibre.com/wp-content/uploads/2017/11/logo-factor-libre-menu-colour.png)" alt="FactorLibre" /></a>
+<a href="https://github.com/factorlibre" target="_blank" rel="noreferrer"><img src="https://factorlibre.com/wp-content/uploads/2017/11/logo-factor-libre-menu-colour.png" alt="FactorLibre" /></a>
 
 </div>
