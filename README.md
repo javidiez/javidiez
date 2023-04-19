@@ -1,16 +1,21 @@
-### Hi there 👋
+![](images/banner.png)
 
-<!--
-**javidiez/javidiez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <h2> Hello World! </h2>
+    <h3> Hi 👋 My name is Javier </h3>
+    <p> <b> Consultant 🖥️ | Project Manager 📚</b> </p>
+  
+### Metrics
+  
+[![Javier Diez's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=javidiez&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-Here are some ideas to get you started:
+  
+### Socials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <a href="https://www.github.com/javidiez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/javier-diezz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+  
+### Working on
+
+<a href="https://github.com/factorlibre" target="_blank" rel="noreferrer"><img src="images/factorlibre.png" alt="FactorLibre" /></a>
+
+</div>
