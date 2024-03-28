@@ -3,7 +3,7 @@
 <div align="center">
     <h2> Hello World! </h2>
     <h3> Hi 👋 My name is Javier </h3>
-    <p> <b> Consultant 🖥️ | Project Manager 📚</b> </p>
+    <p> <b> Consultant 👨‍💼 | Project Manager 📚 | Fullstack Developer 💻 </b> </p>
   
 ### Metrics
   
