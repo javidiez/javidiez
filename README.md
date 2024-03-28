@@ -16,6 +16,6 @@
   
 ### Studying on
 
-<a href="https://github.com/javierdiezz" target="_blank" rel="noreferrer"><img src="https://4geeksacademy.com/static/dc42e38caa9db517ddea28bea5e40d02/74acc/4geeksacademy-logo-old.webp" alt="4Geeks Academy" /></a>
+<a href="https://github.com/javidiez" target="_blank" rel="noreferrer"><img src="https://4geeksacademy.com/static/dc42e38caa9db517ddea28bea5e40d02/74acc/4geeksacademy-logo-old.webp" alt="4Geeks Academy" /></a>
 
 </div>
