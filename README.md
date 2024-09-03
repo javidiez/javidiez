@@ -19,8 +19,8 @@ I'm always interested in hearing from colleagues, managers, or just interesting 
 
 <img src="https://i.postimg.cc/XY9x18g1/317755-badge-html-html5-achievement-award-icon.png" alt="HTML5" border="0" />
 <img src="https://i.postimg.cc/2jBHBrZf/4202020-css3-html-logo-social-social-media-icon.png" alt="CSS3" border="0" />
-<img src="https://i.postimg.cc/sXLpgQcZ/logo-bootstrap.png" alt="Bootstrap" width="8%" height="63px" border="0" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="6%" height="63px" alt="Javascript" border="0" />
+<img src="https://i.postimg.cc/sXLpgQcZ/logo-bootstrap.png" alt="Bootstrap" width="70px" height="63px" border="0" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="60px" height="63px" alt="Javascript" border="0" />
 <img src="https://i.postimg.cc/tT45THG8/7423888-react-react-native-icon.png" alt="React.js" border="0" />
 <img src="https://i.postimg.cc/7ZqXczQx/4375050-logo-python-icon.png" alt="Python" border="0" />
 <img src="https://i.postimg.cc/1XxrKVq1/4691324-flask-icon.png" alt="Flask" border="0" />
