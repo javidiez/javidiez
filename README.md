@@ -18,7 +18,7 @@ I'm always interested in hearing from colleagues, managers, or just interesting 
 ### Projects
 
 <div>
- <h3><a href="https://sample-service-name-2ja2.onrender.com/">Carefy</a></h3>   
+ <h3><a target="_blank" href="https://sample-service-name-2ja2.onrender.com/">Carefy</a></h3>   
     <p>Carefy is a platform aimed at connecting caregivers for the elderly with families who require this type of service.</p>
 <a href="https://sample-service-name-2ja2.onrender.com/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/7hyBh45M/Carefy.png" alt="Carefy" border="0" /></a>
 <h3><a href="https://cinelandia.netlify.app/">Cinelandia</a></h3>   
