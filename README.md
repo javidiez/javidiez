@@ -19,16 +19,22 @@ I'm always interested in hearing from colleagues, managers, or just interesting 
 
 <div>
  <h3><a href="https://sample-service-name-2ja2.onrender.com/">Carefy</a></h3>   
+    <p>Carefy is a platform aimed at connecting caregivers for the elderly with families who require this type of service.</p>
 <a href="https://sample-service-name-2ja2.onrender.com/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/7hyBh45M/Carefy.png" alt="Carefy" border="0" /></a>
 <h3><a href="https://cinelandia.netlify.app/">Cinelandia</a></h3>   
+    <p>Cinelandia is a platform for searching movies and series, where you can find all the related information about them. It uses the TMDB API. I also created the app, which is available on Google Play.</p>
 <a href="https://cinelandia.netlify.app/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/pdFYF7b0/Cinelandia.png"/></a>
    <h3><a href="https://criptolandia.netlify.app/">Criptolandia</a></h3>   
+    <p>Criptolandia is a platform that provides quotes for major cryptocurrencies, as well as information about exchangers, trends, and BTC holders.</p>
 <a href="https://criptolandia.netlify.app/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/CL8F9sg3/Criptolandia.png"/></a>
      <h3><a href="https://criptolandia.netlify.app/">Futbolandia</a></h3>     
+    <p>Futbolandia is a platform where you can create your own soccer team and place the players on the field. You can have a starting lineup and substitutes to complete your entire squad. It does not have a responsive design.</p>
 <a href="https://cinelandia.netlify.app/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/pXB22XmC/Futbol-Team.png"/></a>
     <h3><a href="https://gastosdiarios.netlify.app/">Gastos Diarios</a></h3>    
+    <p>GastosDiarios is a platform where you can record your income and expenses, which will be reflected in a table showing each of them along with the total.</p>
 <a href="https://gastosdiarios.netlify.app/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/Y9mrk6FL/App-Gastos.png"/></a>
       <h3><a href="https://antenah.netlify.app/">Antenah</a></h3>    
+    <p>Antenah is a website for a company that offers web development services.</p>
 <a href="https://antenah.netlify.app/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/vm0M5PrV/Antenah.png"/></a>
 </div>
 
