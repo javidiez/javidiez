@@ -21,7 +21,7 @@ I'm always interested in hearing from colleagues, managers, or just interesting 
  <h3><a target="_blank" href="https://sample-service-name-2ja2.onrender.com/">Carefy</a></h3>   
     <p>Carefy is a platform aimed at connecting caregivers for the elderly with families who require this type of service.</p>
 <a href="https://sample-service-name-2ja2.onrender.com/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/7hyBh45M/Carefy.png" alt="Carefy" border="0" /></a>
-<h3><a href="https://cinelandia.netlify.app/">Cinelandia</a></h3>   
+<h3><a target="_blank" href="https://cinelandia.netlify.app/">Cinelandia</a></h3>   
     <p>Cinelandia is a platform for searching movies and series, where you can find all the related information about them. It uses the TMDB API. I also created the app, which is available on Google Play.</p>
 <a href="https://cinelandia.netlify.app/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/pdFYF7b0/Cinelandia.png"/></a>
    <h3><a href="https://criptolandia.netlify.app/">Criptolandia</a></h3>   
