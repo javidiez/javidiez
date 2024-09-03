@@ -3,7 +3,7 @@
 <div align="">
     <h2> Hello World! </h2>
     <h3> Hi 👋 My name is Javier </h3>
-    <p> <b> Odoo Consultant 👨‍💼 | Project Manager 📚 | Fullstack Developer 💻 </b> </p>
+    <p> <b> Fullstack Developer 💻 | Odoo Consultant 👨‍💼 | Project Manager 📚 </b> </p>
 
 ### About me
 
