@@ -27,16 +27,22 @@ I'm always interested in hearing from colleagues, managers, or just interesting 
    <h3><a href="https://criptolandia.netlify.app/">Criptolandia</a></h3>   
     <p>Criptolandia is a platform that provides quotes for major cryptocurrencies, as well as information about exchangers, trends, and BTC holders.</p>
 <a href="https://criptolandia.netlify.app/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/CL8F9sg3/Criptolandia.png"/></a>
-     <h3><a href="https://criptolandia.netlify.app/">Futbolandia</a></h3>     
+     <h3><a href="https://futbolandia.netlify.app/">Futbolandia</a></h3>     
     <p>Futbolandia is a platform where you can create your own soccer team and place the players on the field. You can have a starting lineup and substitutes to complete your entire squad. It does not have a responsive design.</p>
-<a href="https://cinelandia.netlify.app/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/pXB22XmC/Futbol-Team.png"/></a>
+<a href="https://futbolandia.netlify.app/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/pXB22XmC/Futbol-Team.png"/></a>
     <h3><a href="https://gastosdiarios.netlify.app/">Gastos Diarios</a></h3>    
     <p>GastosDiarios is a platform where you can record your income and expenses, which will be reflected in a table showing each of them along with the total.</p>
 <a href="https://gastosdiarios.netlify.app/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/Y9mrk6FL/App-Gastos.png"/></a>
       <h3><a href="https://antenah.netlify.app/">Antenah</a></h3>    
     <p>Antenah is a website for a company that offers web development services.</p>
 <a href="https://antenah.netlify.app/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/vm0M5PrV/Antenah.png"/></a>
+    <h3><a href="[https://antenah.netlify.app/](https://bonsaiweb.netlify.app/)">Bonsai</a></h3>    
+    <p>Bonsai simulates a website for a company that offers various types of services. You can see the main functionality, where you can switch between monthly and yearly options, and the prices on the cards change accordingly.</p>
+<a href="[https://antenah.netlify.app/](https://bonsaiweb.netlify.app/)" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/q7ryNG0n/Bonsai.png"/></a>
 </div>
+
+
+
 
 
 
